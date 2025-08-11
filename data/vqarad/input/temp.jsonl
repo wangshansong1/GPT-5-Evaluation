@@ -1,0 +1,251 @@
+{"id": "vqarad00000", "question": "is there evidence of an aortic aneurysm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00000.jpeg"}], "label": ["A"]}
+{"id": "vqarad00001", "question": "is there airspace consolidation on the left side?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00001.jpeg"}], "label": ["A"]}
+{"id": "vqarad00002", "question": "is there any intraparenchymal abnormalities in the lung fields?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00002.jpeg"}], "label": ["B"]}
+{"id": "vqarad00005", "question": "are the kidneys present in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00005.jpeg"}], "label": ["B"]}
+{"id": "vqarad00009", "question": "is the liver visible in the image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00009.jpeg"}], "label": ["B"]}
+{"id": "vqarad00010", "question": "is this an axial image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00010.jpeg"}], "label": ["A"]}
+{"id": "vqarad00013", "question": "is there evidence of any abnormalities of the lung parenchyma?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00013.jpeg"}], "label": ["B"]}
+{"id": "vqarad00014", "question": "are the temporal bones fractured?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00014.jpeg"}], "label": ["B"]}
+{"id": "vqarad00015", "question": "is there consolidation in the lungs?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00015.jpeg"}], "label": ["B"]}
+{"id": "vqarad00018", "question": "are the brain gyri atrophied?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00018.jpeg"}], "label": ["B"]}
+{"id": "vqarad00019", "question": "is the anatomy of the brain gyri affected?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00019.jpeg"}], "label": ["B"]}
+{"id": "vqarad00021", "question": "is this an ap image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00021.jpeg"}], "label": ["B"]}
+{"id": "vqarad00023", "question": "is this a ct image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00023.jpeg"}], "label": ["B"]}
+{"id": "vqarad00024", "question": "is there evidence of small bowel obstruction on this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00024.jpeg"}], "label": ["A"]}
+{"id": "vqarad00026", "question": "is there leakage of blood?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00026.jpeg"}], "label": ["B"]}
+{"id": "vqarad00027", "question": "is there herniation?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00027.jpeg"}], "label": ["B"]}
+{"id": "vqarad00030", "question": "can you see the esophagus in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00030.jpeg"}], "label": ["B"]}
+{"id": "vqarad00031", "question": "is the esophagus visible?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00031.jpeg"}], "label": ["B"]}
+{"id": "vqarad00033", "question": "is this modality safe for pregnant women?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00033.jpeg"}], "label": ["B"]}
+{"id": "vqarad00034", "question": "can fluids be highlighted with this modality?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00034.jpeg"}], "label": ["A"]}
+{"id": "vqarad00035", "question": "is there small bowel thickening present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00035.jpeg"}], "label": ["A"]}
+{"id": "vqarad00036", "question": "are the kidneys normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00036.jpeg"}], "label": ["A"]}
+{"id": "vqarad00037", "question": "do the kidneys appear to be normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00037.jpeg"}], "label": ["A"]}
+{"id": "vqarad00038", "question": "are the lateral ventricles visible?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00038.jpeg"}], "label": ["A"]}
+{"id": "vqarad00039", "question": "can the lateral ventricles be seen?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00039.jpeg"}], "label": ["A"]}
+{"id": "vqarad00042", "question": "does this mass likely represent a neoplastic process?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00042.jpeg"}], "label": ["B"]}
+{"id": "vqarad00043", "question": "is this a neoplastic process?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00043.jpeg"}], "label": ["B"]}
+{"id": "vqarad00044", "question": "is the vertebrae fractured?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00044.jpeg"}], "label": ["B"]}
+{"id": "vqarad00045", "question": "is there a verterbral fracture?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00045.jpeg"}], "label": ["B"]}
+{"id": "vqarad00046", "question": "was the patient positioned appropriately \twithout tilting?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00046.jpeg"}], "label": ["A"]}
+{"id": "vqarad00047", "question": "can you evaluate a mediastinum in the shown image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00047.jpeg"}], "label": ["B"]}
+{"id": "vqarad00048", "question": "is the mediastinum visualized?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00048.jpeg"}], "label": ["B"]}
+{"id": "vqarad00051", "question": "do you see hylar lymphadenopathy in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00051.jpeg"}], "label": ["A"]}
+{"id": "vqarad00052", "question": "is there hylar lymphadenopathy?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00052.jpeg"}], "label": ["A"]}
+{"id": "vqarad00053", "question": "is there a widened mediastinum?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00053.jpeg"}], "label": ["A"]}
+{"id": "vqarad00054", "question": "is the mediastinum wider than normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00054.jpeg"}], "label": ["A"]}
+{"id": "vqarad00055", "question": "is the heart enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00055.jpeg"}], "label": ["A"]}
+{"id": "vqarad00056", "question": "is there cardiomegaly?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00056.jpeg"}], "label": ["A"]}
+{"id": "vqarad00057", "question": "is the small bowel appropriately identified with gi contrast?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00057.jpeg"}], "label": ["A"]}
+{"id": "vqarad00058", "question": "is there fluid in the lung?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00058.jpeg"}], "label": ["A"]}
+{"id": "vqarad00059", "question": "is this a pleural effusion\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00059.jpeg"}], "label": ["A"]}
+{"id": "vqarad00060", "question": "is mass effect present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00060.jpeg"}], "label": ["B"]}
+{"id": "vqarad00061", "question": "is there mass effect?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00061.jpeg"}], "label": ["B"]}
+{"id": "vqarad00063", "question": "is there a mass\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00063.jpeg"}], "label": ["A"]}
+{"id": "vqarad00064", "question": "is a mass present in this xray?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00064.jpeg"}], "label": ["A"]}
+{"id": "vqarad00068", "question": "is there a small bowel obstruction?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00068.jpeg"}], "label": ["A"]}
+{"id": "vqarad00069", "question": "is there brain edema\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00069.jpeg"}], "label": ["A"]}
+{"id": "vqarad00070", "question": "is the brain swollen?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00070.jpeg"}], "label": ["A"]}
+{"id": "vqarad00073", "question": "are there increased vascular markings\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00073.jpeg"}], "label": ["A"]}
+{"id": "vqarad00074", "question": "are the vascular markings increased?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00074.jpeg"}], "label": ["A"]}
+{"id": "vqarad00079", "question": "are there hyper attenuating material along the aortic walls?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00079.jpeg"}], "label": ["A"]}
+{"id": "vqarad00083", "question": "is this an mri?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00083.jpeg"}], "label": ["B"]}
+{"id": "vqarad00084", "question": "does this patient have a pneumothorax?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00084.jpeg"}], "label": ["B"]}
+{"id": "vqarad00087", "question": "can the optic nerve be visualized in this mri image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00087.jpeg"}], "label": ["A"]}
+{"id": "vqarad00090", "question": "are there calcifications present on the abdominal aorta?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00090.jpeg"}], "label": ["A"]}
+{"id": "vqarad00091", "question": "does this patient have pneumomediastinum?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00091.jpeg"}], "label": ["B"]}
+{"id": "vqarad00093", "question": "is this a coronal view?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00093.jpeg"}], "label": ["B"]}
+{"id": "vqarad00094", "question": "are these normal kidney findings?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00094.jpeg"}], "label": ["B"]}
+{"id": "vqarad00099", "question": "does the lesion appear to be wedge-shaped?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00099.jpeg"}], "label": ["A"]}
+{"id": "vqarad00100", "question": "is the lesion wedge-shaped?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00100.jpeg"}], "label": ["A"]}
+{"id": "vqarad00101", "question": "does this patient have evidence of pneumoperitoneum?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00101.jpeg"}], "label": ["B"]}
+{"id": "vqarad00107", "question": "is there an acute infarction?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00107.jpeg"}], "label": ["A"]}
+{"id": "vqarad00108", "question": "is this consistent with an acute infarction?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00108.jpeg"}], "label": ["A"]}
+{"id": "vqarad00109", "question": "is this a ct?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00109.jpeg"}], "label": ["A"]}
+{"id": "vqarad00112", "question": "is this an axial plane?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00112.jpeg"}], "label": ["A"]}
+{"id": "vqarad00113", "question": "is there evidence of air in the peritoneal cavity?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00113.jpeg"}], "label": ["B"]}
+{"id": "vqarad00114", "question": "is the trachea located normally?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00114.jpeg"}], "label": ["A"]}
+{"id": "vqarad00115", "question": "is the trachea midline?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00115.jpeg"}], "label": ["A"]}
+{"id": "vqarad00116", "question": "is this the axial plane?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00116.jpeg"}], "label": ["A"]}
+{"id": "vqarad00118", "question": "is this a ct of the abdomen?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00118.jpeg"}], "label": ["B"]}
+{"id": "vqarad00124", "question": "is the cardiac silhouette less than half the diameter of the diaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00124.jpeg"}], "label": ["A"]}
+{"id": "vqarad00129", "question": "is the heart enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00129.jpeg"}], "label": ["B"]}
+{"id": "vqarad00130", "question": "is the heart abnormally large?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00130.jpeg"}], "label": ["B"]}
+{"id": "vqarad00131", "question": "is this image showing the chest?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00131.jpeg"}], "label": ["A"]}
+{"id": "vqarad00135", "question": "is the cardiac silhouette within normal size limits?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00135.jpeg"}], "label": ["A"]}
+{"id": "vqarad00138", "question": "evidence of hemorrhage in the kidneys?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00138.jpeg"}], "label": ["B"]}
+{"id": "vqarad00139", "question": "is there any hemorrhage seen within the kidneys?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00139.jpeg"}], "label": ["B"]}
+{"id": "vqarad00140", "question": "is this a t1 weighted mri?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00140.jpeg"}], "label": ["B"]}
+{"id": "vqarad00146", "question": "is there narrowing of the cardiac contour?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00146.jpeg"}], "label": ["A"]}
+{"id": "vqarad00150", "question": "is the heart enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00150.jpeg"}], "label": ["B"]}
+{"id": "vqarad00151", "question": "is the heart abnormally large?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00151.jpeg"}], "label": ["B"]}
+{"id": "vqarad00157", "question": "is the cardiac silhouette small/stretched\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00157.jpeg"}], "label": ["A"]}
+{"id": "vqarad00163", "question": "is free air present in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00163.jpeg"}], "label": ["B"]}
+{"id": "vqarad00164", "question": "is there free air in the abdomen?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00164.jpeg"}], "label": ["B"]}
+{"id": "vqarad00165", "question": "are the ventricles enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00165.jpeg"}], "label": ["A"]}
+{"id": "vqarad00166", "question": "is the size of the ventricle abnormal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00166.jpeg"}], "label": ["A"]}
+{"id": "vqarad00168", "question": "is there evidence of pulmonary edema?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00168.jpeg"}], "label": ["B"]}
+{"id": "vqarad00170", "question": "is there a hypodense mass in the liver\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00170.jpeg"}], "label": ["A"]}
+{"id": "vqarad00173", "question": "is the trachea normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00173.jpeg"}], "label": ["B"]}
+{"id": "vqarad00174", "question": "is the trachea midline?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00174.jpeg"}], "label": ["A"]}
+{"id": "vqarad00175", "question": "is there a pneumothorax present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00175.jpeg"}], "label": ["B"]}
+{"id": "vqarad00176", "question": "is there free air in the thorax?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00176.jpeg"}], "label": ["B"]}
+{"id": "vqarad00178", "question": "can a mass in the pancreatic head cause a liver injury?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00178.jpeg"}], "label": ["A"]}
+{"id": "vqarad00179", "question": "is there enlargement of the pulmonary vasculature?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00179.jpeg"}], "label": ["B"]}
+{"id": "vqarad00180", "question": "does the liver show an enhancing mass or lesion?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00180.jpeg"}], "label": ["B"]}
+{"id": "vqarad00181", "question": "is there an enhancing lesion in the liver?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00181.jpeg"}], "label": ["B"]}
+{"id": "vqarad00185", "question": "is this a coronal section?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00185.jpeg"}], "label": ["B"]}
+{"id": "vqarad00186", "question": "are there any skeletal joints in the ct?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00186.jpeg"}], "label": ["B"]}
+{"id": "vqarad00188", "question": "can a patient with a metal implant get a cxr?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00188.jpeg"}], "label": ["A"]}
+{"id": "vqarad00190", "question": "is the cardiac contour normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00190.jpeg"}], "label": ["A"]}
+{"id": "vqarad00194", "question": "are there skull fractures present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00194.jpeg"}], "label": ["B"]}
+{"id": "vqarad00195", "question": "is the skull fractured?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00195.jpeg"}], "label": ["B"]}
+{"id": "vqarad00196", "question": "is there sign of a skull fracture?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00196.jpeg"}], "label": ["B"]}
+{"id": "vqarad00197", "question": "is the skull fractured?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00197.jpeg"}], "label": ["B"]}
+{"id": "vqarad00199", "question": "does this image show a pneumothorax?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00199.jpeg"}], "label": ["B"]}
+{"id": "vqarad00200", "question": "is there a pneumothorax present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00200.jpeg"}], "label": ["B"]}
+{"id": "vqarad00201", "question": "is the cardiac silhouette less than half the lateral diameter of the chest wall?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00201.jpeg"}], "label": ["A"]}
+{"id": "vqarad00202", "question": "are the hemidiaphragms flattened?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00202.jpeg"}], "label": ["B"]}
+{"id": "vqarad00203", "question": "is the diaphragm flat on either side?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00203.jpeg"}], "label": ["B"]}
+{"id": "vqarad00204", "question": "is there any abnormality in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00204.jpeg"}], "label": ["A"]}
+{"id": "vqarad00205", "question": "are there lesions in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00205.jpeg"}], "label": ["A"]}
+{"id": "vqarad00206", "question": "is this an mri?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00206.jpeg"}], "label": ["B"]}
+{"id": "vqarad00207", "question": "are there clearly defined cardiac borders in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00207.jpeg"}], "label": ["A"]}
+{"id": "vqarad00212", "question": "is there a left apical pneumothorax?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00212.jpeg"}], "label": ["A"]}
+{"id": "vqarad00213", "question": "is there a localized mass?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00213.jpeg"}], "label": ["B"]}
+{"id": "vqarad00214", "question": "is there a focal mass present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00214.jpeg"}], "label": ["B"]}
+{"id": "vqarad00215", "question": "is there air trapped in the body?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00215.jpeg"}], "label": ["B"]}
+{"id": "vqarad00216", "question": "is there free air present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00216.jpeg"}], "label": ["B"]}
+{"id": "vqarad00217", "question": "are there pulmonary findings?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00217.jpeg"}], "label": ["B"]}
+{"id": "vqarad00218", "question": "is there any abnormality in the lungs?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00218.jpeg"}], "label": ["B"]}
+{"id": "vqarad00219", "question": "are there abnormal findings?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00219.jpeg"}], "label": ["A"]}
+{"id": "vqarad00220", "question": "is anything not normal in the image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00220.jpeg"}], "label": ["A"]}
+{"id": "vqarad00224", "question": "is the outline of visceral pleura visible in the upper left lung field?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00224.jpeg"}], "label": ["A"]}
+{"id": "vqarad00226", "question": "is the heart enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00226.jpeg"}], "label": ["A"]}
+{"id": "vqarad00227", "question": "is cardiomegaly present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00227.jpeg"}], "label": ["A"]}
+{"id": "vqarad00229", "question": "are gallstones identifiable?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00229.jpeg"}], "label": ["A"]}
+{"id": "vqarad00230", "question": "is air present in the bowels?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00230.jpeg"}], "label": ["A"]}
+{"id": "vqarad00231", "question": "is there bowel gas?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00231.jpeg"}], "label": ["A"]}
+{"id": "vqarad00235", "question": "is there slight dilation of the right renal pelvis?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00235.jpeg"}], "label": ["A"]}
+{"id": "vqarad00237", "question": "is there evidence of a pneumoperitoneum?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00237.jpeg"}], "label": ["B"]}
+{"id": "vqarad00238", "question": "is there free air underneath the diaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00238.jpeg"}], "label": ["B"]}
+{"id": "vqarad00243", "question": "are the borders of the mass well-defined?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00243.jpeg"}], "label": ["B"]}
+{"id": "vqarad00244", "question": "are the borders of the mass well-defined and is the interior of the mass homogenous?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00244.jpeg"}], "label": ["B"]}
+{"id": "vqarad00245", "question": "is the interior of the mass homogenous?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00245.jpeg"}], "label": ["B"]}
+{"id": "vqarad00246", "question": "is there enlargement of the right renal pelvis?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00246.jpeg"}], "label": ["A"]}
+{"id": "vqarad00247", "question": "is the mass well circumscribed?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00247.jpeg"}], "label": ["B"]}
+{"id": "vqarad00248", "question": "is the mass homogenous?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00248.jpeg"}], "label": ["B"]}
+{"id": "vqarad00249", "question": "is the mass well circumscribed and homogenous?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00249.jpeg"}], "label": ["B"]}
+{"id": "vqarad00253", "question": "are liver findings normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00253.jpeg"}], "label": ["A"]}
+{"id": "vqarad00254", "question": "does the liver look normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00254.jpeg"}], "label": ["A"]}
+{"id": "vqarad00255", "question": "is there air outside the bowel walls?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00255.jpeg"}], "label": ["B"]}
+{"id": "vqarad00256", "question": "is pneumoperitoneum evident?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00256.jpeg"}], "label": ["B"]}
+{"id": "vqarad00257", "question": "has the midline of the mediastinum shifted?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00257.jpeg"}], "label": ["B"]}
+{"id": "vqarad00259", "question": "is the air under the diaphragm pathologic?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00259.jpeg"}], "label": ["B"]}
+{"id": "vqarad00260", "question": "is there free air under the diaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00260.jpeg"}], "label": ["B"]}
+{"id": "vqarad00261", "question": "is there biliary duct dilation?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00261.jpeg"}], "label": ["A"]}
+{"id": "vqarad00263", "question": "is this a normal liver?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00263.jpeg"}], "label": ["B"]}
+{"id": "vqarad00264", "question": "is there contrast used?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00264.jpeg"}], "label": ["A"]}
+{"id": "vqarad00265", "question": "is there contrast in the patient's arteries and veins?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00265.jpeg"}], "label": ["A"]}
+{"id": "vqarad00266", "question": "is the lesion hyperdense?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00266.jpeg"}], "label": ["B"]}
+{"id": "vqarad00267", "question": "is the air under the diaphragm pathologic?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00267.jpeg"}], "label": ["B"]}
+{"id": "vqarad00268", "question": "is there a mediastinal shift?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00268.jpeg"}], "label": ["B"]}
+{"id": "vqarad00269", "question": "is there free air under the diaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00269.jpeg"}], "label": ["B"]}
+{"id": "vqarad00271", "question": "is the aorta size abnormal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00271.jpeg"}], "label": ["B"]}
+{"id": "vqarad00272", "question": "is the aorta dilated?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00272.jpeg"}], "label": ["B"]}
+{"id": "vqarad00275", "question": "is there contrast in the patient's small bowel?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00275.jpeg"}], "label": ["A"]}
+{"id": "vqarad00277", "question": "what do the two small hyperintensities indicate?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00277.jpeg"}], "label": ["A"]}
+{"id": "vqarad00278", "question": "is the abdominal aorta within normal size limits?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00278.jpeg"}], "label": ["A"]}
+{"id": "vqarad00279", "question": "is the left lung field more radioopaque than the right side?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00279.jpeg"}], "label": ["A"]}
+{"id": "vqarad00280", "question": "can the patient's encephalon be seen in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00280.jpeg"}], "label": ["B"]}
+{"id": "vqarad00281", "question": "are the clavicles fractured?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00281.jpeg"}], "label": ["B"]}
+{"id": "vqarad00283", "question": "is pneumo intestinalis present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00283.jpeg"}], "label": ["A"]}
+{"id": "vqarad00284", "question": "is this image abnormal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00284.jpeg"}], "label": ["A"]}
+{"id": "vqarad00285", "question": "were both sides affected?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00285.jpeg"}], "label": ["A"]}
+{"id": "vqarad00287", "question": "is there hydronephrosis in the patient's kidneys?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00287.jpeg"}], "label": ["B"]}
+{"id": "vqarad00288", "question": "are the kidney present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00288.jpeg"}], "label": ["A"]}
+{"id": "vqarad00289", "question": "is there an air-fluid level?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00289.jpeg"}], "label": ["B"]}
+{"id": "vqarad00290", "question": "is the left lung field more white?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00290.jpeg"}], "label": ["A"]}
+{"id": "vqarad00291", "question": "is there a chest tube placed?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00291.jpeg"}], "label": ["B"]}
+{"id": "vqarad00292", "question": "is there evidence of pneumoperitoneum?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00292.jpeg"}], "label": ["A"]}
+{"id": "vqarad00293", "question": "is this a contrast-enhanced ct?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00293.jpeg"}], "label": ["A"]}
+{"id": "vqarad00294", "question": "are nodules present in both lungs?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00294.jpeg"}], "label": ["A"]}
+{"id": "vqarad00297", "question": "is there an air-fluid level?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00297.jpeg"}], "label": ["B"]}
+{"id": "vqarad00298", "question": "is there free air in the abdomen?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00298.jpeg"}], "label": ["B"]}
+{"id": "vqarad00300", "question": "are there ekg leads on this patient?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00300.jpeg"}], "label": ["A"]}
+{"id": "vqarad00301", "question": "is the liver normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00301.jpeg"}], "label": ["B"]}
+{"id": "vqarad00302", "question": "is this a normal image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00302.jpeg"}], "label": ["B"]}
+{"id": "vqarad00303", "question": "are the nodules well circumscribed?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00303.jpeg"}], "label": ["A"]}
+{"id": "vqarad00304", "question": "is this a normal image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00304.jpeg"}], "label": ["B"]}
+{"id": "vqarad00305", "question": "is the appendix enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00305.jpeg"}], "label": ["A"]}
+{"id": "vqarad00308", "question": "is there air present under the diaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00308.jpeg"}], "label": ["B"]}
+{"id": "vqarad00312", "question": "is this a typical liver?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00312.jpeg"}], "label": ["B"]}
+{"id": "vqarad00314", "question": "is there a shift of midline structures?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00314.jpeg"}], "label": ["B"]}
+{"id": "vqarad00315", "question": "is there fat stranding?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00315.jpeg"}], "label": ["B"]}
+{"id": "vqarad00318", "question": "is the left kidney abnormal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00318.jpeg"}], "label": ["A"]}
+{"id": "vqarad00319", "question": "is there any adenopathy?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00319.jpeg"}], "label": ["B"]}
+{"id": "vqarad00321", "question": "are the bronchial airways enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00321.jpeg"}], "label": ["A"]}
+{"id": "vqarad00324", "question": "is this a normal image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00324.jpeg"}], "label": ["B"]}
+{"id": "vqarad00325", "question": "is there cortical atrophy?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00325.jpeg"}], "label": ["B"]}
+{"id": "vqarad00326", "question": "are the hepatic lesions ring enhancing?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00326.jpeg"}], "label": ["B"]}
+{"id": "vqarad00328", "question": "are the costophrenic angles preserved?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00328.jpeg"}], "label": ["A"]}
+{"id": "vqarad00329", "question": "is the right diaphragm visualized?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00329.jpeg"}], "label": ["B"]}
+{"id": "vqarad00330", "question": "is the abdominal aorta enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00330.jpeg"}], "label": ["B"]}
+{"id": "vqarad00331", "question": "is there hilar lymphadenopathy?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00331.jpeg"}], "label": ["B"]}
+{"id": "vqarad00334", "question": "is there vascular pathology in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00334.jpeg"}], "label": ["A"]}
+{"id": "vqarad00336", "question": "is there evidence of rib fracture?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00336.jpeg"}], "label": ["B"]}
+{"id": "vqarad00340", "question": "is the appendix non-enlarged?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00340.jpeg"}], "label": ["A"]}
+{"id": "vqarad00341", "question": "is the appendix normal in size?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00341.jpeg"}], "label": ["A"]}
+{"id": "vqarad00342", "question": "is this patient in a supine position?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00342.jpeg"}], "label": ["A"]}
+{"id": "vqarad00343", "question": "is the patient lying supine?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00343.jpeg"}], "label": ["A"]}
+{"id": "vqarad00347", "question": "is this an axial view of the brain?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00347.jpeg"}], "label": ["A"]}
+{"id": "vqarad00348", "question": "does the liver contain at least one hypodensity?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00348.jpeg"}], "label": ["A"]}
+{"id": "vqarad00349", "question": "is there a hypodensity located in the liver?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00349.jpeg"}], "label": ["A"]}
+{"id": "vqarad00350", "question": "was this image taken by x-ray?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00350.jpeg"}], "label": ["B"]}
+{"id": "vqarad00355", "question": "did this patient receive iv contrast?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00355.jpeg"}], "label": ["A"]}
+{"id": "vqarad00356", "question": "was this patient given iv contrast?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00356.jpeg"}], "label": ["A"]}
+{"id": "vqarad00362", "question": "are the lungs hyperinflated?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00362.jpeg"}], "label": ["A"]}
+{"id": "vqarad00364", "question": "does the left hemidiaphragm appear flat?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00364.jpeg"}], "label": ["A"]}
+{"id": "vqarad00365", "question": "is there flattening of the left hemidiaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00365.jpeg"}], "label": ["A"]}
+{"id": "vqarad00368", "question": "is this in the posterior anterior plane?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00368.jpeg"}], "label": ["A"]}
+{"id": "vqarad00372", "question": "are the sulci abnormal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00372.jpeg"}], "label": ["B"]}
+{"id": "vqarad00373", "question": "do the sulci look abnormal in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00373.jpeg"}], "label": ["B"]}
+{"id": "vqarad00380", "question": "are the ventricles an abnormal size?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00380.jpeg"}], "label": ["B"]}
+{"id": "vqarad00381", "question": "is the size of the ventricles abnormal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00381.jpeg"}], "label": ["B"]}
+{"id": "vqarad00382", "question": "is there any tracheal deviation present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00382.jpeg"}], "label": ["B"]}
+{"id": "vqarad00383", "question": "is the trachea deviated in this image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00383.jpeg"}], "label": ["B"]}
+{"id": "vqarad00388", "question": "is the gi tract is highlighted by contrast?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00388.jpeg"}], "label": ["A"]}
+{"id": "vqarad00389", "question": "do you see cardiomegaly?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00389.jpeg"}], "label": ["B"]}
+{"id": "vqarad00391", "question": "is there cardiomegaly present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00391.jpeg"}], "label": ["B"]}
+{"id": "vqarad00392", "question": "is the image of the gastrointestinal system?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00392.jpeg"}], "label": ["A"]}
+{"id": "vqarad00396", "question": "is there cardiomyopathy?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00396.jpeg"}], "label": ["A"]}
+{"id": "vqarad00401", "question": "are the lungs normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00401.jpeg"}], "label": ["B"]}
+{"id": "vqarad00402", "question": "is the image study normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00402.jpeg"}], "label": ["B"]}
+{"id": "vqarad00404", "question": "are the lesions ring-enhancing?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00404.jpeg"}], "label": ["A"]}
+{"id": "vqarad00407", "question": "are >12 ribs present in the image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00407.jpeg"}], "label": ["A"]}
+{"id": "vqarad00413", "question": "is the mass calcified?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00413.jpeg"}], "label": ["A"]}
+{"id": "vqarad00414", "question": "does this look like a healthy liver?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00414.jpeg"}], "label": ["A"]}
+{"id": "vqarad00415", "question": "is the liver normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00415.jpeg"}], "label": ["A"]}
+{"id": "vqarad00416", "question": "is this a normal x ray?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00416.jpeg"}], "label": ["B"]}
+{"id": "vqarad00417", "question": "is the right hemidiaphragm normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00417.jpeg"}], "label": ["B"]}
+{"id": "vqarad00418", "question": "does this represent adequate inspiratory effort?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00418.jpeg"}], "label": ["A"]}
+{"id": "vqarad00420", "question": "is this in a coronal plane?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00420.jpeg"}], "label": ["B"]}
+{"id": "vqarad00421", "question": "is the surrounding phlegmon normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00421.jpeg"}], "label": ["B"]}
+{"id": "vqarad00422", "question": "is the fat surrounding the pancreas normal?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00422.jpeg"}], "label": ["B"]}
+{"id": "vqarad00423", "question": "are lung markings present in the entire thoracic cavity?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00423.jpeg"}], "label": ["A"]}
+{"id": "vqarad00424", "question": "is there a pneumothorax present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00424.jpeg"}], "label": ["B"]}
+{"id": "vqarad00425", "question": "is there more than one organ system present in the image?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00425.jpeg"}], "label": ["B"]}
+{"id": "vqarad00427", "question": "is there more than one intussusception present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00427.jpeg"}], "label": ["B"]}
+{"id": "vqarad00429", "question": "is there a rib fracture?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00429.jpeg"}], "label": ["B"]}
+{"id": "vqarad00431", "question": "is the diaphragm clearly visualized on both sides of the thorax?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00431.jpeg"}], "label": ["A"]}
+{"id": "vqarad00432", "question": "is the diaphragm obscured?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00432.jpeg"}], "label": ["B"]}
+{"id": "vqarad00433", "question": "is the heart wider than more than half the width of the thorax?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00433.jpeg"}], "label": ["B"]}
+{"id": "vqarad00435", "question": "is there evidence of subdiaphragmatic free air on the left?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00435.jpeg"}], "label": ["B"]}
+{"id": "vqarad00436", "question": "is the free air under the left hemidiaphragm pathologic?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00436.jpeg"}], "label": ["B"]}
+{"id": "vqarad00437", "question": "is the gallbladder present?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00437.jpeg"}], "label": ["A"]}
+{"id": "vqarad00440", "question": "is there evidence of any fractures of the ribs?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00440.jpeg"}], "label": ["B"]}
+{"id": "vqarad00441", "question": "is there free air in the supraclavicular fossae?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00441.jpeg"}], "label": ["A"]}
+{"id": "vqarad00444", "question": "are the borders of the heart clearly visualized?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00444.jpeg"}], "label": ["A"]}
+{"id": "vqarad00446", "question": "is there subcutaneous air present in the right neck?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00446.jpeg"}], "label": ["A"]}
+{"id": "vqarad00447", "question": "is this image taken above the diaphragm?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00447.jpeg"}], "label": ["B"]}
+{"id": "vqarad00449", "question": "is a pneumothorax present in the left apex?\nAnswer Choices: (A) yes (B) no", "images": [{"image_path": "vqarad00449.jpeg"}], "label": ["B"]}

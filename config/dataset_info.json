@@ -1,0 +1,63 @@
+{
+    "usmlestep1": {
+        "tasks": ["text"],
+        "input_path": "data/usmlestep1/input/",
+        "demo_path": "data/usmlestep1/demonstrations/"
+    },
+    "usmlestep2": {
+        "tasks": ["text"],
+        "input_path": "data/usmlestep2/input/",
+        "demo_path": "data/usmlestep2/demonstrations/"
+    },
+    "usmlestep3": {
+        "tasks": ["text"],
+        "input_path": "data/usmlestep3/input/",
+        "demo_path": "data/usmlestep3/demonstrations/"
+    },
+    "medqa": {
+        "tasks": ["text"],
+        "input_path": "data/medqa/input/",
+        "demo_path": "data/medqa/demonstrations/"
+    },
+    "medqamainland": {
+        "tasks": ["text"],
+        "input_path": "data/medqamainland/input/",
+        "demo_path": "data/medqamainland/demonstrations/"
+    },
+    "medqataiwan": {
+        "tasks": ["text"],
+        "input_path": "data/medqataiwan/input/",
+        "demo_path": "data/medqataiwan/demonstrations/"
+    },
+    "vqarad": {
+        "tasks": ["mm"],
+        "input_path": "data/vqarad/input/",
+        "demo_path": "data/vqarad/demonstrations/"
+    },
+    "medmcqa": {
+        "tasks": ["text"],
+        "input_path": "data/medmcqa/input/",
+        "demo_path": "data/medmcqa/demonstrations/"
+    },
+    "mmlu_medical": {
+        "tasks": ["text"],
+        "input_path": "data/mmlu_medical/input/",
+        "demo_path": "data/mmlu_medical/demonstrations/"
+    },
+    "medxpertqa": {
+        "tasks": [
+            "text",
+            "mm"
+        ],
+        "input_path": "data/medxpertqa/input/",
+        "demo_path": "data/medxpertqa/demonstrations/"
+    },
+    "medxpertqa_sampled": {
+        "tasks": [
+            "text",
+            "mm"
+        ],
+        "input_path": "data/medxpertqa_sampled/input/",
+        "demo_path": "data/medxpertqa_sampled/demonstrations/"
+    }
+}
