@@ -13,7 +13,7 @@ This repository contains the evaluation code and GPT-5's output for "Capabilitie
     &emsp;vqarad00268.jpeg  
     &emsp;...  
 
-Please download the [MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) images from their project and use this [link](https://drive.google.com/file/d/1T6R5BPoAlhqeYyWPfLhDrb7qcN3GTcXT/view?usp=sharing) to download some images of VQA-RAD.
+Please download the [MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) images from their project and use this [link](https://drive.google.com/file/d/1T6R5BPoAlhqeYyWPfLhDrb7qcN3GTcXT/view?usp=sharing) to download images of VQA-RAD.
 
 ## Citation
 
