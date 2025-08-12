@@ -20,7 +20,15 @@ Please download the [MedXpertQA](https://github.com/TsinghuaC3I/MedXpertQA) imag
 If you find our work and this repository helpful, please consider giving our repo a star and citing our paper as follows:
 
 ```bibtex
-XXX
+@misc{wang2025capabilitiesgpt5multimodalmedical,
+      title={Capabilities of GPT-5 on Multimodal Medical Reasoning}, 
+      author={Shansong Wang and Mingzhe Hu and Qiang Li and Mojtaba Safari and Xiaofeng Yang},
+      year={2025},
+      eprint={2508.08224},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.08224}, 
+}
 ```
 
 ## Acknowledgement
