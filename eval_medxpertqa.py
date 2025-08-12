@@ -19,7 +19,7 @@ for split in split_list:
     else:
         prompting_type = "cot"
 
-    result_path = f"outputs/dev/{model}/{dataset}_mm/zero_shot/{prompting_type}/{dataset}_{split}_output.jsonl"
+    result_path = f"outputs/dev/{model}/{dataset}/zero_shot/{prompting_type}/{dataset}_{split}_output.jsonl"
 
     with open(result_path, "r") as f:
         outputs = [json.loads(line) for line in f]
